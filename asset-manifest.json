@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oficcinas/static/css/main.0b968875.css",
+    "main.js": "/oficcinas/static/js/main.310cb342.js",
+    "static/media/im4.PNG": "/oficcinas/static/media/im4.4281e8e3aee62e45ca9a.PNG",
+    "static/media/bill-gates.PNG": "/oficcinas/static/media/bill-gates.7b1082615e542cff4399.PNG",
+    "static/media/im3.PNG": "/oficcinas/static/media/im3.4e38cd86580700e7006a.PNG",
+    "static/media/im5.PNG": "/oficcinas/static/media/im5.400e8a9bdf03958eaf6a.PNG",
+    "static/media/im7.PNG": "/oficcinas/static/media/im7.8852f82e3ff79350a7e2.PNG",
+    "static/media/im1.PNG": "/oficcinas/static/media/im1.7acb311da84487892cac.PNG",
+    "static/media/im6.PNG": "/oficcinas/static/media/im6.f4190d406cb042d8f3da.PNG",
+    "static/media/im2.PNG": "/oficcinas/static/media/im2.7949a9a86917f2cec83d.PNG",
+    "static/media/icono_menu.png": "/oficcinas/static/media/icono_menu.1b6e8dd51a03f3978838.png",
+    "static/media/RoadTest.ttf": "/oficcinas/static/media/RoadTest.1df2060705750fc358b3.ttf",
+    "static/media/icono_x.png": "/oficcinas/static/media/icono_x.8b58a55ef9c6528a6e7b.png",
+    "index.html": "/oficcinas/index.html",
+    "main.0b968875.css.map": "/oficcinas/static/css/main.0b968875.css.map",
+    "main.310cb342.js.map": "/oficcinas/static/js/main.310cb342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b968875.css",
+    "static/js/main.310cb342.js"
+  ]
+}
